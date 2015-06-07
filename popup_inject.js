@@ -11,6 +11,7 @@ if (!document.getElementById(ELEMENT_ID)) {
     iframe.style.top = "0";
     iframe.style.margin = "20px";
     iframe.style.borderRadius = "4px";
+    iframe.style.border = "none";
     iframe.style.boxShadow = "0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)";
     iframe.style.zIndex = "999999";
 
